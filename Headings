@@ -1,0 +1,16 @@
+CHAPTER 3:-
+ HEADINGS:-
+
+  Header Tag used to indicate Headings of various sizes and thickness.
+There are six (6) Heading tags are there 
+h1 to h6
+h1 tag can indicates the largest and thickest.It also indicates the most important heading.
+h6 tag can indicates the smallest and thinest.It also indicates the least important heading.
+
+Eg: 
+  <h1>Heading 1 </h1>
+  <h2>Heading 2 <h2>
+  <h3>Heading 3 </h3>
+  <h4>Heading 4 </h4>
+  <h5>Heading 5 </h5>
+  <h6>Heading 6 </h6>
